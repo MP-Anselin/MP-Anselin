@@ -14,7 +14,7 @@
 ✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br>
-📄 Please have a look at my [Résumé](https://cvdesignr.com/p/5c3c907d84442) for more details about me. I'm open to
+📄 Please have a look at my [Resume](https://cvdesignr.com/p/5c3c907d84442) for more details about me. I'm open to
 feedback and suggestions!
 
 
