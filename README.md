@@ -97,7 +97,6 @@ feedback and suggestions!
     <code> <img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"> </code>
     <code> <img height="50" src="https://www.vectorlogo.zone/logos/getfedora/getfedora-ar21.svg"> </code>
     <code> <img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> </code>
-    <code> <img height="50" src=""> </code>
 </p>
 
 <br>
